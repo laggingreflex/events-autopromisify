@@ -1,0 +1,7 @@
+{
+  "name": "events-autopromisify",
+  "version": "0.0.0",
+  "description": "Automatically promisifies all instance of EventEmitter",
+  "main": "index.js",
+  "repository": "events-autopromisify"
+}
